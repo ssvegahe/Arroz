@@ -1,5 +1,8 @@
 # Arroz
 Predicción de arroz
+url <- "https://raw.githubusercontent.com/ssvegahe/Arroz/main/Arroz%20Datos.txt"
+data <- read_table(url)
+
 ## Estructura de base de datos
 Datos|Significado|Tipo de variable
 -----|-----------|---------
