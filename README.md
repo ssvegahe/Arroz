@@ -1,8 +1,6 @@
 # Arroz
 Predicción de arroz
 ## Estructura de base de datos
-Con la finalidad de evitar conflictos con el procesamiento de datos, transformamos los grupos a evaluar a factor.
-
 Datos|Significado|Tipo de variable
 -----|-----------|---------
 fecha|Fecha de evaluación|factor 
